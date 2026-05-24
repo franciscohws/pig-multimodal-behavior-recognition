@@ -1,0 +1,17 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+librosa
+soundfile
+tqdm
+pyyaml
+openpyxl
+jupyter
+notebook
+ipykernel
+torch
+torchvision
+torchaudio

@@ -1,0 +1,25 @@
+name: pig-multimodal
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - librosa
+  - soundfile
+  - tqdm
+  - pyyaml
+  - openpyxl
+  - jupyter
+  - notebook
+  - ipykernel
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pip

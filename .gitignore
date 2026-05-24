@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+env/
+venv/
+.conda/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large data files
+data/
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Audio and arrays
+*.wav
+*.npy
+*.npz
+
+# Model files
+*.pt
+*.pth
+*.pkl
+*.joblib
+*.h5
+*.onnx
+
+# Results that can be regenerated
+results/predictions/
+results/metrics/
+results/figures/
+
+# Local configuration
+configs/paths.yaml
+
+# Temporary files
+tmp/
+temp/
+*.log

@@ -1,0 +1,18 @@
+# Example path configuration.
+# Copy this file to configs/paths.yaml and edit the paths according to your local machine.
+
+dataset_root: "C:/path/to/zenodo_dataset_v1"
+
+accelerometer_file: "accelerometer/accelerometer_windows_long_4classes.csv"
+
+metadata_file: "metadata/samples_metadata.csv"
+
+metadata_synchronized_file: "metadata/samples_metadata_synchronized_audio_acc.csv"
+
+label_dictionary_file: "metadata/label_dictionary.csv"
+
+audio_dir: "audio/wav_5s"
+
+logmel_dir: "audio/logmel_512"
+
+results_dir: "results"
