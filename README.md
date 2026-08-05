@@ -1,4 +1,4 @@
-# Multimodal Pig Behavior Recognition Using Accelerometer and Audio Sensors
+#  Experiment Code: Multimodal Pig Behavior Recognition Using Accelerometer and Audio Sensors
 
 This repository contains the source code and notebooks used for pig behavior recognition using wearable accelerometer and audio sensors.
 
