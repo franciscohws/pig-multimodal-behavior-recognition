@@ -1,9 +1,0 @@
-﻿relative_path,extension,size_mb
-notebooks\02_dataset_setup_and_data_analysis.ipynb,.ipynb,16.1607
-notebooks\01_multimodal_fusion_accelerometer_audio.ipynb,.ipynb,3.5571
-README.md,.md,0.0027
-LICENSE,,0.0011
-.gitignore,,0.0005
-configs\paths_example.yaml,.yaml,0.0005
-environment.yml,.yml,0.0003
-requirements.txt,.txt,0.0002
